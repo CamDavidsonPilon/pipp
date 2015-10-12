@@ -3,7 +3,7 @@
 
 One of the `p`s stands for personalized
 
-![demo](http://i.imgur.com/lVYQBDv.gifv)
+![demo](http://i.imgur.com/lVYQBDv.gif)
 
 ## Installation (atm)
 
