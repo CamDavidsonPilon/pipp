@@ -1,2 +1,6 @@
 # pipp
-recommendations after using pip
+### get recommendations after using pip
+
+
+One of the `p`s stands for personalized
+
